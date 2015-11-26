@@ -1,0 +1,11 @@
+{
+    "otp_number": "${otpNumber}",
+    "thai_id": "${thaiId}",
+    "email": "${email}",
+    "mobile": "${mobile}",
+    "password": "${password}",
+    "first_name": "${firstName}",
+    "last_name": "${lastName}",
+    "birth_date": "${birthDate}",
+    "register_channel": "${registerChannel}"
+}
