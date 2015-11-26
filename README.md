@@ -48,9 +48,9 @@ $ mvn gatling:execute
 3. scala (http://scala-lang.org/)
 
 ## อธิบาย
-เมื่อทำการ execute ผลลัพธ์จะถูก generate เป็น file  index.html ใน folder results ที่ config ไว้ใน pom.xml<br/>
+เมื่อทำการ execute ผลลัพธ์จะถูก generate เป็น file  index.html ใน folder /target/results ที่ config ไว้ใน pom.xml<br/>
 
-*** เขียน code ให้ไปเขียนที่ folder simulations ***
+*** เขียน code ให้ไปเขียนที่ folder src/test/resources/simulations ***
 
 
 ## เอกสารการเขียน code
