@@ -15,7 +15,7 @@ class HelloWorldSimulation extends Simulation {
   val conf = ConfigFactory.load();
   val baseUrl = conf.getString("baseUrl");
 
-  // 2. set up http 
+  // 2. setup http 
   val httpConf = http
     .baseURL(baseUrl)
     .acceptHeader("text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
