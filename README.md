@@ -1,5 +1,7 @@
 # ตัวอย่างการใช้ gatling (load testing)
 
+<img src="https://lh3.googleusercontent.com/-O00Bb_QI3tE/VlfONCHNzAI/AAAAAAAAQiw/2q6YqmZrbGA/w1730-h1025-no/11-26-2015%2B7-05-07%2BPM.png" />
+
 HelloWorldSimulation.scala
 ```scala
 import io.gatling.core.Predef._
