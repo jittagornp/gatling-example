@@ -58,11 +58,11 @@ $ mvn gatling:execute
 
 
 ## โครงสร้าง code
-- `src/test/resources/conf` -> ไว้เก็บ configuration ของ code
-- `src/test/resources/data` -> ไว้เก็บ data ที่จะใช้ test เช่น csv file, sql file, ...
-- `target/results` -> ไว้เก็บ results ที่ใช้ในการ test
-- `src/test/resources/bodies` -> ไว้เก็บ request body ที่จะส่งไปยังปลายทางที่จะยิง  เช่น json template
-- `src/test/resources/simulations` -> ไว้เก็บ code /scenario ที่จะยิง
+- `src/test/resources/conf` ไว้เก็บ configuration ของ code
+- `src/test/resources/data` ไว้เก็บ data ที่จะใช้ test เช่น csv file, sql file, ...
+- `target/results` ไว้เก็บ results ที่ใช้ในการ test
+- `src/test/resources/bodies` ไว้เก็บ request body ที่จะส่งไปยังปลายทางที่จะยิง  เช่น json template
+- `src/test/resources/simulations` ไว้เก็บ code /scenario ที่จะยิง
 
 ## เอกสารการเขียน code
 http://gatling.io/docs/2.1.7/general/index.html
