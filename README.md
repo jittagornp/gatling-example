@@ -1,4 +1,4 @@
-# ตัวอย่างการใช้ gatling (load testing)
+# ตัวอย่างการใช้ gatling
 
 > สำหรับทำ load test / performance test
 
