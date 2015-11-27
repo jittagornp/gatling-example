@@ -17,7 +17,7 @@ class HomePageSimulation extends Simulation {
   val httpConf = http
     .baseURL(homePageUrl)
     .acceptHeader("text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
-    .inferHtmlResources(
+    .inferHtmlResources( /* include html resources */
       BlackList(),
       WhiteList()
     )
